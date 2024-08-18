@@ -1,0 +1,1 @@
+surfaceConvert in.stl ou.stl -clean -scale 0.001
