@@ -7,6 +7,12 @@ This repo will primarily be evaluating the characteristics and performance of di
 
 ![image](https://github.com/user-attachments/assets/c677a258-b179-4985-a416-d7f2458df916)
 
+## Background
+
+OpenFOAM is an open-source CFD package, which offers a high degree of customizability. If you are unfamiliar with it, it is highly recommended to follow the [tutorials](https://cfd.direct/openfoam/documentation/) and [youtube guides](https://www.youtube.com/watch?v=IMoFaZcPifM&list=PLvkU6i2iQ2fobFabvgRFeCGsHOqJ8iB5W&index=1)
+
 ## Results
+
+### Steady RAS
 
 ### Base Case 
