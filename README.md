@@ -14,5 +14,9 @@ OpenFOAM is an open-source CFD package, which offers a high degree of customizab
 ## Results
 
 ### Steady RAS
+U(m/s) = 10, &#957;(kinematic) = 1 * 10<sup>-5</sup>
+![image](https://github.com/user-attachments/assets/4564481a-d196-4301-bf87-d30f1f46dd18)
+![image](https://github.com/user-attachments/assets/ff0b892b-c3fc-4819-b3de-2284d27a030b)
+
 
 ### Base Case 
