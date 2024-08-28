@@ -18,5 +18,8 @@ U(m/s) = 10, &#957;(kinematic) = 1 * 10<sup>-5</sup>
 ![image](https://github.com/user-attachments/assets/4564481a-d196-4301-bf87-d30f1f46dd18)
 ![image](https://github.com/user-attachments/assets/ff0b892b-c3fc-4819-b3de-2284d27a030b)
 
+U(m/s) = 20, &#957;(kinematic) = 1 * 10<sup>-5</sup>
+![image](https://github.com/user-attachments/assets/7a650b63-ee61-4faf-a5cd-1c98eb15d9bb)
+![image](https://github.com/user-attachments/assets/d0b7d515-62d0-499d-b661-fcda41896216)
 
 ### Base Case 
