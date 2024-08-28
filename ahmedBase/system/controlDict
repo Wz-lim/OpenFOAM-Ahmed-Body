@@ -18,13 +18,13 @@ application     foamRun;
 
 solver          incompressibleFluid;
 
-startFrom       startTime;
+startFrom       latestTime;
 
 startTime       0;
 
 stopAt          endTime;
 
-endTime         500;
+endTime         503;
 
 deltaT          1;
 
