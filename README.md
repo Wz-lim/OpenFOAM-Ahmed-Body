@@ -13,5 +13,10 @@ This is currently under progress, and will be continually updated.
 
 OpenFOAM is an open-source CFD package, which offers a high degree of customizability. If you are unfamiliar with it, it is highly recommended to follow the [tutorials](https://wiki.openfoam.com/index.php?title=Tutorials) and [youtube guides](https://www.youtube.com/watch?v=IMoFaZcPifM&list=PLvkU6i2iQ2fobFabvgRFeCGsHOqJ8iB5W&index=1)
 
-## Results
-Result will be uploaded in the results folder
+## Models
+| Turbulence Model | Type |
+|----------|----------|
+|   realizableKE  |   RAS  |
+|   kOmegaSST  |   RAS  |
+|   SpalartAllmaras  |   RAS   |
+|   Smagorinsky  |   LES   |
